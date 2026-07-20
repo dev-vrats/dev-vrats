@@ -95,10 +95,42 @@
 
 <div align="center">
 
-[![cafeq-srm](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=cafeq-srm&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/cafeq-srm)
-[![healtho](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=healtho&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/healtho)
-
-[![CivicLens](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=CivicLens&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/CivicLens)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/dev-vrats/cafeq-srm">
+        <img src="https://img.shields.io/badge/☕_CAFEQ--SRM-CC0000?style=for-the-badge&logoColor=FFD700"/>
+        <br/><br/>
+        <b>CaféQ — SRM</b><br/>
+        <sub>Smart cafe queue management system for SRM University</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=CC0000"/>
+        <img src="https://img.shields.io/badge/Web-FFD700?style=flat-square&logo=html5&logoColor=CC0000"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dev-vrats/healtho">
+        <img src="https://img.shields.io/badge/🏥_HEALTHO-CC0000?style=for-the-badge&logoColor=FFD700"/>
+        <br/><br/>
+        <b>Healtho</b><br/>
+        <sub>AI-powered health assistant & wellness tracker</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=CC0000"/>
+        <img src="https://img.shields.io/badge/AI-FFD700?style=flat-square&logo=openai&logoColor=CC0000"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/dev-vrats/CivicLens">
+        <img src="https://img.shields.io/badge/🔍_CIVICLENS-CC0000?style=for-the-badge&logoColor=FFD700"/>
+        <br/><br/>
+        <b>CivicLens</b><br/>
+        <sub>Civic issue tracking & reporting platform for citizens</sub><br/><br/>
+        <img src="https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=CC0000"/>
+        <img src="https://img.shields.io/badge/Cloud-FFD700?style=flat-square&logo=googlecloud&logoColor=CC0000"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
