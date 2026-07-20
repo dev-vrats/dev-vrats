@@ -95,11 +95,10 @@
 
 <div align="center">
 
-[![VibeFlow-AI](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=VibeFlow-AI&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/VibeFlow-AI)
-[![Interview_Mate](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=Interview_Mate&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/Interview_Mate)
+[![cafeq-srm](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=cafeq-srm&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/cafeq-srm)
+[![healtho](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=healtho&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/healtho)
 
-[![TalkBack](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=TalkBack&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/TalkBack)
-[![AI-assistant](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=AI-assistant&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/AI-assistant)
+[![CivicLens](https://github-readme-stats.vercel.app/api/pin/?username=dev-vrats&repo=CivicLens&title_color=CC0000&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=CC0000&border_radius=0)](https://github.com/dev-vrats/CivicLens)
 
 </div>
 
