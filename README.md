@@ -109,10 +109,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CC0000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/dev-vrat-trivedi)
-[![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:subrattrived3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CC0000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/dev-vrat-trivedi/)
+[![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:subrattrivedi3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4A0000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/dev-vrats)
-[![Instagram](https://img.shields.io/badge/Instagram-CC0000?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://instagram.com/dev.vrat.trivedi)
+[![Instagram](https://img.shields.io/badge/Instagram-CC0000?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/d3vvrat/)
 
 <br/>
 
