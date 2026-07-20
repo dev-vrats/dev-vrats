@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MAIN BANNER -->
-![Soviet Pixel Art Banner](./assets/banner.jpg)
+![Soviet Pixel Art Banner](./assets/banner_red.jpg)
 
 <!-- NAME BADGE -->
 ![Dev Vrat Trivedi — DEV VRAT TRIVEDI](./assets/name_badge.jpg)
