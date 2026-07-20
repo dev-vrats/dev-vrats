@@ -4,7 +4,7 @@
 ![Soviet Pixel Art Banner](./assets/banner.jpg)
 
 <!-- NAME BADGE -->
-![Dev Vrat Trivedi](./assets/name_badge.jpg)
+![Dev Vrat Trivedi — DEV VRAT TRIVEDI](./assets/name_badge.jpg)
 
 <br/>
 
@@ -28,7 +28,7 @@
 ║         PERSONNEL FILE — CLASSIFIED                  ║
 ║         Ministry of Software Engineering             ║
 ╠══════════════════════════════════════════════════════╣
-║  Name     : Dev Vrat Trivedi                         ║
+║  Name     : Dev Vrat Trivedi                        ║
 ║  Division : BTech CSE '28                            ║
 ║  Status   : ACTIVE — Building AI, Cloud & Web        ║
 ║  Base     : Lucknow, UP, India 🇮🇳                   ║
