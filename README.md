@@ -28,10 +28,10 @@
 ║         PERSONNEL FILE — CLASSIFIED                  ║
 ║         Ministry of Software Engineering             ║
 ╠══════════════════════════════════════════════════════╣
-║  Name     : Dev Vrat Trivedi                        ║
-║  Division : BTech CSE '28                            ║
+║  Name     : Dev Vrat Trivedi                         ║
+║  Division : BTech CSE '29                            ║
 ║  Status   : ACTIVE — Building AI, Cloud & Web        ║
-║  Base     : Lucknow, UP, India 🇮🇳                   ║
+║  Base     : Lucknow, UP, India.                      ║
 ║  Mission  : Open to learning & contributing          ║
 ╚══════════════════════════════════════════════════════╝
 ```
