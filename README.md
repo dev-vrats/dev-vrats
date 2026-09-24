@@ -9,7 +9,7 @@
 <br/>
 
 <!-- ANIMATED TYPING SVG -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=☭+Welcome+to+my+Sector%2C+Comrade+☭;🏗️+BTech+CSE'28+%7C+AI+%26+Cloud+Builder;⚒️+Code+is+the+Weapon+of+the+People;🗿+The+Motherland+Calls...+to+Debug;🚩+Building+AI%2C+Web+%26+Open+Source!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=☭+Welcome+to+my+Sector%2C+Comrade+☭;🏗️+BTech+CSE'29+%7C+AI+%26+Cloud+Builder;⚒️+Code+is+the+Weapon+of+the+People;🗿+The+Motherland+Calls...+to+Debug;🚩+Building+AI%2C+Web+%26+Open+Source!)
 
 <br/>
 
